@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/Shanka_CV.pdf
+permalink: /assets/pdf/Shanka_CV__postdoc.pdf
 title: cv
 nav: true
 nav_order: 5

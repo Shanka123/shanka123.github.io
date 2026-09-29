@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Shanka Subhra
 middle_name: 
 last_name: Mondal
-email: smondal@princeton.edu
+email: shankasubhra@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Shanka Subhra Mondal is a Senior Research Scientist at the Accenture Center for Advanced AI,
   working on multimodal agents, multi-agent reinforcement learning, and visually grounded reasoning.
